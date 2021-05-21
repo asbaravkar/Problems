@@ -1,3 +1,5 @@
+import java.util.Collection;
+import java.util.Collections;
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
@@ -15,9 +17,9 @@ public class FindKthMaxMin {
         k = sc.nextInt();
 
         //create heap
-        //for min create max heap
-        PriorityQueue<Integer> q = new PriorityQueue<>();
-
+        //for minimum element create max heap
+        PriorityQueue<Integer> q = new PriorityQueue<>(Collections.reverseOrder());
+        //by default min heap, so convert to max heap
         for(int i:ar) {
             q.add(i);
             //remove element if q size > k
