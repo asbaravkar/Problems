@@ -1,5 +1,6 @@
-|Sr.No|             Problem            |                                      Solution                                         | 
-|-----|--------------------------------|---------------------------------------------------------------------------------------|
-|  1  |Different ways to reverse string|[.java](https://github.com/asbaravkar/Problems/blob/master/ReverseString.java)         |
-|  2  |Find Kth Max and Min using heap |[.java](https://github.com/asbaravkar/Problems/blob/master/Problems/FindKthMaxMin.java)|
-|  3  |Sort an array of 0s 1s 2s       |[.java](https://github.com/asbaravkar/Problems/blob/master/Problems/Sort012.java)      |
+|Sr.No|             Problem               |    Link to Problem                                                         |                                      Solution                                                          | 
+|-----|-----------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+|  1  |Different ways to reverse string   |                                                                            |[.java](https://github.com/asbaravkar/Problems/blob/master/ReverseString.java)                          |
+|  2  |Find Kth Max and Min using heap    |[Problem](https://leetcode.com/problems/kth-largest-element-in-an-array)    |[.java](https://github.com/asbaravkar/Problems/blob/master/Problems/FindKthMaxMin.java)                 |
+|  3  |Sort an array of 0s 1s 2s          |[Problem](https://leetcode.com/problems/sort-colors)                        |[.java](https://github.com/asbaravkar/Problems/blob/master/Problems/Sort012.java)                       |
+|  4  |Remove duplicates from sorted array|[Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[.java](https://github.com/asbaravkar/Problems/blob/master/Problems/RemoveDuplicateFromSortedArray.java)|
